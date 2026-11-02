@@ -2,3 +2,4 @@ stoka1
 updatedstroka2
 stroka3
 proba
+ппоалалвдвдвщ66666666щщ6щ
