@@ -1,3 +1,3 @@
 stoka1
-stroka2
+updatedstroka2
 stroka3
