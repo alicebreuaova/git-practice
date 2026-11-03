@@ -1,1 +1,2 @@
-timeout=45
+timeout=60
+feature/timeout-60
